@@ -17,4 +17,4 @@ while a<9
   puts a
   a += 1
 end
-# this is to check out git
+# this is to check Git
